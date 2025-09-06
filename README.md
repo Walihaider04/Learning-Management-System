@@ -1,2 +1,2 @@
-# Learning-Management-System
+# Library-Management-System
 C#, MVC.NET Learning Management System
